@@ -12,7 +12,7 @@
         <nav>
             <ul>
                 <li><a href="index.html">Inicio</a></li>
-                <li><a href="servicios.php">Servicios</a></li>
+                <li><a href="servicios.html">Servicios</a></li>
                 <li><a href="precios.html">Precios</a></li>
                 <li><a href="sobre.html">Sobre Nosotros</a></li>
                 <li><a href="contacto.html">Contacto</a></li>
